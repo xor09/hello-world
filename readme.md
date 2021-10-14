@@ -40,6 +40,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~German](%23/~German)
 * [~Greek](%23/~Greek)
 * [~Gujarati](%23/~Gujarati)
+* [~Gujaratii](%23/~Gujarati)
 * [~Hausa](%23/~Hausa)
 * [~Hebrew](%23/~Hebrew)
 * [~Hindi](%23/~Hindi)
